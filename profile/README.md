@@ -1,7 +1,7 @@
 # 16VC Lab
 
 💡 **16VC Lab** is the product studio of [16VC](https://16vc.co), a $20M venture fund.  
-We build in-house AI tools, launch new products, and contribute to open-source ML.
+We build in-house AI tools, launch new products, and contribute to open-source ML.  
 
 ---
 
@@ -18,11 +18,15 @@ We build in-house AI tools, launch new products, and contribute to open-source M
 
 ---
 
-## 📦 Open Source Projects
+## 📦 Projects (Coming Soon)
 
-- 🔬 [llama-cookbook](https://github.com/16VC-Lab/llama-cookbook) — AI/ML experiments  
-- 🧩 [faiss](https://github.com/16VC-Lab/faiss) — Vector search  
-- 💻 [vscode](https://github.com/16VC-Lab/vscode) — Developer productivity  
+We’re currently building our first **in-house AI products and open-source libraries**.  
+Focus areas include:  
+- 🛠️ Venture tooling & founder productivity  
+- 🤖 AI automation for startups and funds  
+- 📊 ML infrastructure & experimentation frameworks  
+
+Stay tuned for releases in 2025.  
 
 ---
 
@@ -36,14 +40,3 @@ We build in-house AI tools, launch new products, and contribute to open-source M
 ---
 
 💼 *We’re building the future of AI venture creation. Join us → [contact us](mailto:info@16vc.co).*
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
